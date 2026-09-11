@@ -1,0 +1,4 @@
+# --- Constants ---
+CELL_OPEN = 0
+CELL_OBSTACLE = 1
+DIMENSION = 30
